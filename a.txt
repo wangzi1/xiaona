@@ -1,0 +1,127 @@
+    1  git clone https://github.com/zhufengpeixun/JavaScript201611.git
+    2  git pull origin master
+    3  git pull origin master
+    4  git pull origin master
+    5  git pull origin master
+    6  git clone https://github.com/zhufengpeixun/JavaScript201611.git
+    7  git pull origin master
+    8  git pull origin master
+    9  git pull origin master
+   10  git pull origin master
+   11  git pull origin master
+   12  git pull origin master
+   13  git pull origin master
+   14  git pull origin master
+   15  git pull origin master
+   16  git pull origin master
+   17  git pull origin master
+   18  git pull origin master
+   19  git pull origin master
+   20  git pull origin master
+   21  git put origin master
+   22  pull
+   23  git pull orign master
+   24  git pull origin master
+   25  git pull origin master
+   26  git pull master origin
+   27  git pull master origin
+   28  git pull origin master
+   29  git pull origin master
+   30  git pull origin master
+   31  git pull origin master
+   32  git pull origin master
+   33  git pull origin master
+   34  git clone https://github.com/zhufengpeixun/JavaScript201611
+   35  git pull master origin
+   36  git pull origin master
+   37  git pull origin master
+   38  npm install less -g
+   39  lessc -v
+   40  npm install less -g
+   41  lessc style.less style.css
+   42  lessc style.less style.css
+   43  lessc b.less b.css
+   44  lessc style.less style.css
+   45  lessc
+   46  lessc test.less test.css
+   47  lessc style.less style.css
+   48  lessc style.less style.css
+   49  node -v
+   50  lessc style.less style.css
+   51  npm install less -g
+   52  less
+   53  less --help
+   54  lessc style.less style.css
+   55  npm install less -g
+   56  npm install less -g
+   57  lessc style.less style.css
+   58  exit
+   59  lessc style.less style.css
+   60  node -v
+   61  npm install less -g
+   62  lessc style.less style.css
+   63  lessc
+   64  lessc style.less style.css
+   65  type -p lessc
+   66  lessc
+   67  /actual/path/to/lessc
+   68  npm install less -g
+   69  lessc ss.less ss.css
+   70  lessc sss.less sss.css
+   71  lessc public.less public.css
+   72  lessc less2.less less2.css
+   73  lessc less2.less less2.css
+   74  lessc less2.less less2.css
+   75  lessc index.less index.css
+   76  lessc index.less index.css
+   77  git pull origin master
+   78  git pull origin master
+   79  git pull origin master
+   80  git pull origin master
+   81  git pull origin master
+   82  git clone https://github.com/zhufengpeixun/JavaScript201611.git
+   83  git pull origin master
+   84  git clone https://github.com/zhufengpeixun/JavaScript201611
+   85  git pull origin master
+   86  clone git https://github.com/zhufengnodejs/201601node
+   87  git pull origin master
+   88  clone git https://github.com/zhufengnodejs/201601node.git
+   89  git clone https://github.com/zhufengnodejs/201601node.git
+   90  git clone https://github.com/zhufengnodejs/201601node_homework.git
+   91  git clone https://github.com/zhufengzhufeng/angular_lession11
+   92  git pull origin master
+   93  git --version
+   94  git config --list
+   95  cls
+   96  git config --global user.name
+   97  git config --global user.name na123
+   98  git config --global user.name
+   99  git config --list
+  100  git config --global user.email 1753764770@qq.com
+  101  git config --global user.email
+  102  git config global
+  103  git config --global
+  104  git config --list
+  105  clear
+  106  mkdir gitRes
+  107  cd gitRes/
+  108  git init
+  109  ls -al
+  110  touch hello.js
+  111  echo hello > hello.js
+  112  echo
+  113  cat hello.js
+  114  echo hello >> hello.js
+  115  cat hello.js
+  116  rm hello.js
+  117  ls -al
+  118  echo hello > hello.js
+  119  ls
+  120  cat hello.js
+  121  vi hello.js
+  122  cat hello.js
+  123  vi hello.js
+  124  cat hello.js
+  125  history a.txt
+  126  ls
+  127  history > a.txt
